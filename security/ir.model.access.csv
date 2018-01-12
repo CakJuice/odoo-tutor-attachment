@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_cj_tutor_attachment_cj_tutor_attachment,cj_tutor_attachment.cj_tutor_attachment,model_cj_tutor_attachment_cj_tutor_attachment,,1,0,0,0
